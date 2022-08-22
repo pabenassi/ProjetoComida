@@ -1,2 +1,2 @@
-# ProjetoComida
-trabalho de desenvolvimento de app com vue
+# ProjetoComida    
+Trabalho de desenvolvimento de app com Vue
